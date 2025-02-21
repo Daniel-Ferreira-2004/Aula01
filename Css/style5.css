@@ -3,19 +3,37 @@
 }
 
 header h1 {
-    background-color: blanchedalmond;
+    background-color: rgb(155, 253, 147);
     text-align: center;
     padding: 2em;
 }
 
-.um {
-    background-color: aquamarine;
+section {
+    background-color: rgb(146, 248, 159);
     text-align: center;
+}
+
+.first {
+    background-color: rgb(167, 243, 178);
+    padding: 2em;
+}
+
+.second {
+    background-color: rgb(184, 240, 160);
+    padding: 5em;
+}
+
+.third {
+    background-color: rgb(191, 247, 199);
+    padding: 3em;
 }
 
 footer {
     background-color: black;
     text-align: center;
-    color: white;
     padding: 2em;
+}
+
+footer .direitos {
+    color: white;
 }
